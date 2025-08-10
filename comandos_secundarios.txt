@@ -12,3 +12,5 @@ esse arquivo contém informações adicionais para git
 aehuaeuhae
 huaeuhae
 uaehuaueauhh
+
+oi
