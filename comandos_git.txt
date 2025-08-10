@@ -1,8 +1,10 @@
 git init . -> cria um repo git na pasta atual
 git status -> mostra status do trabalho
-git add nome_arquivo -> adiciona arquivo para ser commitado
+git add <nome_arquivo> -> adiciona arquivo para ser commitado
 git commit -m  "msg" -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commit
+git diff <nome_arquivo> -> mostra as mudanças realizadas nesse arquivo
+git reset <nome_arquivo> -> remove o arquivo do estado "staged"
 
 ## FLUXO DE TRABALHO
 
