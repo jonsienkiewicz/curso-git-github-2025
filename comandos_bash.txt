@@ -4,5 +4,6 @@ pwd -> mostra o diretório de trabalho
 cat -> exibe conteudo do arquivo
 rm -> remove arquivo ou diretorio
 rm -rf -> remove de maneira recursiva e forçada todos os diretórios
+touch < nome do arquivo > -> é uma forma de criar um arquivo sem nada dentro
 
 fodase
