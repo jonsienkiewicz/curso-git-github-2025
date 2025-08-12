@@ -30,7 +30,7 @@ Confira tudo o que temos no nosso YouTube. É grátis!
 09. abrir Pull request no GitHub para main
 10. excluir <nova_branch> origin
 11. git checkout main
-12 git branch -d <nova_branch>
+12. git branch -d <nova_branch>
 
 ## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
